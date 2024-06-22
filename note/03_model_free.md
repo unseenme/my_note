@@ -1,4 +1,4 @@
-# Model-Free Prediction
+# Model-Free Prediction and Control
 
 ## 1 Model-Based vs Model-Free Algorithms
 
